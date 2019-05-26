@@ -6,8 +6,24 @@
     "start": "nodemon app.js"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.0",
     "nodemon": "^1.19.0",
     "pug": "*"
-  }
+  },
+  "description": "for my skill",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myeongeun/nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myeongeun/nodejs/issues"
+  },
+  "homepage": "https://github.com/myeongeun/nodejs#readme"
 }
